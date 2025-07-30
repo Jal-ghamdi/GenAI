@@ -1,0 +1,7 @@
+google-generativeai
+markdown
+weasyprint
+streamlit
+markdown
+weasyprint
+PyPDF2
